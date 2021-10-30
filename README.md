@@ -2,6 +2,6 @@
 
 - Project from FreecodeCamp 
 
-*languages Html, css
+*languages Html, css*
 
 live link https://kihunitechnicaldoc.netlify.app/
